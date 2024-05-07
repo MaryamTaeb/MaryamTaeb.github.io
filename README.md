@@ -1,55 +1,98 @@
-# Data Scientist
+# Assistant Proffessor
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, C, Shell scripting, JavaScript, Java, MATLAB
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Electrical & Computer Engineering | FAMU-FSU College of Engineering, Tallahassee, FL (_August 2024)						     
+- M.S., Computer Information Sciences | Florida Agricultural and Mechanical University, Tallahassee, FL (_July 2021_)			        		
+- B.S., Computer Science | University of Central Florida, Orlando, FL (_December 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Assistant @ SPADAL Lab, FAMU-FSU College of Engineering** (_August 2021 - Present_)
+- Engaged in AI research focusing on speech and image signal processing for Deepfake detection.
+- Enhanced EfficientNet model with attention mechanism and fine-tuned BERT for improved performance in data extraction and classification tasks.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**AI/ML Researcher Intern @ Apple** (_May 2023 - September 2023_)
+- Contributed to the UI Understanding team; designed and patented a multi-agent LLM-based planner for automated accessibility testing.
+
+**Adjunct Faculty @ School of Architecture & Engineering Technology, FAMU** (_August 2023 - December 2023_)
+- Taught C Programming for Engineering and Technology, Digital Electronics, and supervised corresponding labs.
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### A Blockchain-Based Decentralized Federated Learning Framework for Deepfake Detection in Digital Forensic Scenarios
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Publication](https://ieeexplore.ieee.org/abstract/document/10185510)
+[News Coverage](https://eng.famu.fsu.edu/news/new-ai-truth-tool-targets-deepfakes-and-misinformation)
+
+Blockchain-Based Decentralized Federated Learning Framework for Digital Forensic Applications & Deepfake Detection (BFDD), an innovative solution designed to support law enforcement agencies in authenticating digital evidence. The framework enhances targeted data extraction and improves deepfake detection capabilities using advanced machine learning techniques. By bolstering evidence authentication processes, the BFDD aims to reinforce the reliability of digital media in judicial settings, addressing critical issues in digital forensics and the integrity of evidence.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### AXNav: Replaying Accessibility Tests from Natural Language
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240](https://arxiv.org/pdf/2310.02424)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In this project, we addressed the challenges of manual accessibility testing, by introducing a novel system that utilizes Large Language Models (LLMs) and pixel-based UI understanding models to automate accessibility testing. This system is designed to take manual test commands, such as "Search for a show in VoiceOver," and execute them, generating chaptered, navigable videos. These videos include heuristic-based flags for potential accessibility issues, such as improper text resizing or navigation loops in VoiceOver.
+
+### Assessing the Effectiveness and Security Implications of AI Code Generators
+[Publication](https://cisse.info/journal/index.php/cisse/article/view/180)
+[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://ieeexplore.ieee.org/abstract/document/9644382)
+
+
+In this project, we explored the use of Large Language Model (LLM)-based generative AI tools, such as OpenAI CodeX, CodeBert, and ChatGPT, as well as static analysis tools such as FlawFinder, Visual Code Grepper, Clang Tidy, CyBERT, Snyk, which are increasingly popular among developers for coding assistance. These tools assist in generating and completing code based on user input and instructions, but the quality and security of the generated code can vary significantly. Factors affecting this include the complexity of tasks, clarity of instructions, and the AI's familiarity with specific programming languages. Our study conducts a thorough analysis and comparison of the code generation and completion capabilities of these models, particularly focusing on the security implications of the code they produce. 
+
+### Fairness in Pre-trained Language Models
+[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19)
+[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://ieeexplore.ieee.org/abstract/document/9644382](https://ieeexplore.ieee.org/abstract/document/10216397)
+
+This research project examines the fairness and efficiency of pretrained language models (PTMs) like ELECTRA and BERT in industrial applications such as HR and targeted advertising. ELECTRA excels in token prediction with less computational demand, making it apt for broad usage, while it's analyzed for potential biases using datasets with racially and gender-associated names. In contrast, BERT's effectiveness in language representation is scrutinized for biases through its tokenization and masking processes by measuring the cosine similarity between tokens and their replacements.
+
+The study aims to understand and mitigate inherent biases in these models, thereby enhancing fairness in AI-driven applications and promoting equity in machine learning across various industries.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- ACM Richard Tapia and Grace Hopper Celebration 2020 Presenter “Vegetation Classification Using Lidar Data”
+- Guest Speaker: “Introduction to deep learning, from theory to practice” attended by the FAMU Vice President for federal Research 2020
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+1. Taeb, Maryam, et al. "AXNav: Replaying Accessibility Tests from Natural
+Language." CHI conference on Human Factors in Computing Systems 11-16 May
+2024
+2. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Assessing the Effectiveness
+and Security Implications of AI Code Generators.” The Colloquium for Information
+Systems Security Education (CISSE 2023), Nov 1-3, 2023
+3. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Targeted Data Extraction and
+Deepfake Detection with Blockchain Technology.” International Conference on
+Universal Village (IEEE UV2022), Oct 22-25, 2022
+4. Taeb, Maryam, Torres, Yonathan, Chi, Hongmei, Bernadin, Shonda. “Investigating
+Gender and Racial Bias in ELECTRA.” International conference on Computational
+Science & Computational Intelligence (CSCI'22), Dec 14-16, 2022
+5. Elliston, J., Chi, H., Bernadin, S., & Taeb, M, “Integrating Blockchain Technology
+into Cybersecurity Education.” Future Technologies Conference (FTC) 2022, Nov
+2-3, 2022
+6. Taeb, M., & Bernadin, S, “Broadening Participation in URE Using PS-MMM-based
+Mentoring for URM Engineering Students.” The Chronicle of Mentoring & Coaching
+conference 2022, Oct 23-27, 2022
+7. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda (2022). “Digital Evidence
+Acquisition and Deepfake Detection with Decentralized Applications.” Practice
+and Experience in Advanced Research Computing (PEARC). July 10-14, 2022
+8. Taeb, Maryam, & Chi, Hongmei (2022). “Comparison of Deepfake Detection
+Techniques through Deep Learning.” Journal of Cybersecurity and Privacy, 2(1),
+89-106.
+9. Taeb, Maryam, Chi, Hongmei, Yan, Jie, “Applying Machine Learning to Analyze
+Anti-vaccination on Tweets.” IEEE International Conference on Big Data (BDA
+COVID-2021), Dec 15-18, 2021
+10. Taeb, Maryam and Hongmei Chi, “A Personalized Learning Framework for
+Software Vulnerability Detection and Education.” 2021 International Workshop on
+Cyber Security (CSW) Aug 13-15, 2021
+11. Taeb, Maryam, Chi, Hongmei, Jones, Edward. L. et al. “Inherent Discriminability of
+BERT towards racial Minority Associated Data”, The 21st International Conference
+on Computational Science and Applications (ICCSA 2021), Sept 13-16, 2021
+12. A Ali, K Adjei, S Fatimah, K Ezendu, M Taeb, H Chi, C King, V Diaby, “Using Twitter
+to Examine Public Perceptions about COVID-19 in the United States: A Sentiment
+Analysis”, ISPOR, May 17-20
+
+- [LinkedIn Profile](https://www.linkedin.com/in/maryamrmoghadam/)
