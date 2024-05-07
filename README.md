@@ -28,7 +28,7 @@
 
 Blockchain-Based Decentralized Federated Learning Framework for Digital Forensic Applications & Deepfake Detection (BFDD), an innovative solution designed to support law enforcement agencies in authenticating digital evidence. The framework enhances targeted data extraction and improves deepfake detection capabilities using advanced machine learning techniques. By bolstering evidence authentication processes, the BFDD aims to reinforce the reliability of digital media in judicial settings, addressing critical issues in digital forensics and the integrity of evidence.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/BFDD.png)
 
 ### AXNav: Replaying Accessibility Tests from Natural Language
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240](https://arxiv.org/pdf/2310.02424)
