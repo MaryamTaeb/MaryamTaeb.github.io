@@ -35,22 +35,25 @@ Blockchain-Based Decentralized Federated Learning Framework for Digital Forensic
 
 In this project, we addressed the challenges of manual accessibility testing, by introducing a novel system that utilizes Large Language Models (LLMs) and pixel-based UI understanding models to automate accessibility testing. This system is designed to take manual test commands, such as "Search for a show in VoiceOver," and execute them, generating chaptered, navigable videos. These videos include heuristic-based flags for potential accessibility issues, such as improper text resizing or navigation loops in VoiceOver.
 
+![AXNAV](/assets/img/AxNAV.png)
+
 ### Assessing the Effectiveness and Security Implications of AI Code Generators
 [Publication](https://cisse.info/journal/index.php/cisse/article/view/180)
-[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://ieeexplore.ieee.org/abstract/document/9644382)
-
+[Publication](https://ieeexplore.ieee.org/abstract/document/9644382)
 
 In this project, we explored the use of Large Language Model (LLM)-based generative AI tools, such as OpenAI CodeX, CodeBert, and ChatGPT, as well as static analysis tools such as FlawFinder, Visual Code Grepper, Clang Tidy, CyBERT, Snyk, which are increasingly popular among developers for coding assistance. These tools assist in generating and completing code based on user input and instructions, but the quality and security of the generated code can vary significantly. Factors affecting this include the complexity of tasks, clarity of instructions, and the AI's familiarity with specific programming languages. Our study conducts a thorough analysis and comparison of the code generation and completion capabilities of these models, particularly focusing on the security implications of the code they produce. 
 
+![AXNAV](/assets/img/AI-SourceCode.png)
+
 ### Fairness in Pre-trained Language Models
-[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19)
-[Publication](https://cisse.info/journal/index.php/cisse/article/view/180](https://ieeexplore.ieee.org/abstract/document/9644382](https://ieeexplore.ieee.org/abstract/document/10216397)
+[Publication](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19)
+[Publication](https://ieeexplore.ieee.org/abstract/document/10216397)
 
 This research project examines the fairness and efficiency of pretrained language models (PTMs) like ELECTRA and BERT in industrial applications such as HR and targeted advertising. ELECTRA excels in token prediction with less computational demand, making it apt for broad usage, while it's analyzed for potential biases using datasets with racially and gender-associated names. In contrast, BERT's effectiveness in language representation is scrutinized for biases through its tokenization and masking processes by measuring the cosine similarity between tokens and their replacements.
 
 The study aims to understand and mitigate inherent biases in these models, thereby enhancing fairness in AI-driven applications and promoting equity in machine learning across various industries.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Fairness](/assets/img/Fairness.jpeg)
 
 ## Talks & Lectures
 - ACM Richard Tapia and Grace Hopper Celebration 2020 Presenter “Vegetation Classification Using Lidar Data”
