@@ -38,7 +38,7 @@ In this project, we addressed the challenges of manual accessibility testing, by
 ![AXNAV](/assets/img/AxNAV.png)
 
 ### Assessing the Effectiveness and Security Implications of AI Code Generators
-[Publication](https://cisse.info/journal/index.php/cisse/article/view/180)
+[Publication](https://cisse.info/journal/index.php/cisse/article/view/180) |
 [Publication](https://ieeexplore.ieee.org/abstract/document/9644382)
 
 In this project, we explored the use of Large Language Model (LLM)-based generative AI tools, such as OpenAI CodeX, CodeBert, and ChatGPT, as well as static analysis tools such as FlawFinder, Visual Code Grepper, Clang Tidy, CyBERT, Snyk, which are increasingly popular among developers for coding assistance. These tools assist in generating and completing code based on user input and instructions, but the quality and security of the generated code can vary significantly. Factors affecting this include the complexity of tasks, clarity of instructions, and the AI's familiarity with specific programming languages. Our study conducts a thorough analysis and comparison of the code generation and completion capabilities of these models, particularly focusing on the security implications of the code they produce. 
@@ -46,7 +46,7 @@ In this project, we explored the use of Large Language Model (LLM)-based generat
 ![AXNAV](/assets/img/AI-SourceCode.png)
 
 ### Fairness in Pre-trained Language Models
-[Publication](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19)
+[Publication](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19) |
 [Publication](https://ieeexplore.ieee.org/abstract/document/10216397)
 
 This research project examines the fairness and efficiency of pretrained language models (PTMs) like ELECTRA and BERT in industrial applications such as HR and targeted advertising. ELECTRA excels in token prediction with less computational demand, making it apt for broad usage, while it's analyzed for potential biases using datasets with racially and gender-associated names. In contrast, BERT's effectiveness in language representation is scrutinized for biases through its tokenization and masking processes by measuring the cosine similarity between tokens and their replacements.
