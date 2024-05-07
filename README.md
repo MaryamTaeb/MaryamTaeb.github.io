@@ -1,5 +1,5 @@
 # Assistant Proffessor
-## University of West Florida
+University of West Florida
 
 #### Technical Skills: Python, SQL, C, Shell scripting, JavaScript, Java, MATLAB
 
