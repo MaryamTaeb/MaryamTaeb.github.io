@@ -22,8 +22,8 @@
 ## Projects
 ### A Blockchain-Based Decentralized Federated Learning Framework for Deepfake Detection in Digital Forensic Scenarios
 
-[Publication](https://ieeexplore.ieee.org/abstract/document/10185510)
-[News Coverage](https://eng.famu.fsu.edu/news/new-ai-truth-tool-targets-deepfakes-and-misinformation)
+[Publication](https://ieeexplore.ieee.org/abstract/document/10185510) |
+[News Coverage](https://eng.famu.fsu.edu/news/new-ai-truth-tool-targets-deepfakes-and-misinformation) |
 [Open-Source Framework](https://github.com/MaryamMoghadam/DeepFake_Authenticator)
 
 Blockchain-Based Decentralized Federated Learning Framework for Digital Forensic Applications & Deepfake Detection (BFDD), an innovative solution designed to support law enforcement agencies in authenticating digital evidence. The framework enhances targeted data extraction and improves deepfake detection capabilities using advanced machine learning techniques. By bolstering evidence authentication processes, the BFDD aims to reinforce the reliability of digital media in judicial settings, addressing critical issues in digital forensics and the integrity of evidence.
