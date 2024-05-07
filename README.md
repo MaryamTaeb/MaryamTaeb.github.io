@@ -1,4 +1,4 @@
-# Assistant Professor <br><span style="color:#0066cc; font-size:smaller;">University of West Florida</span><br><span style="font-size:10px;">Department of Cybersecurity and Information Technology</span>
+# Assistant Professor <br><span style="color:#0066cc; font-size:smaller;">University of West Florida</span><br><span style="font-size:20px;">Department of Cybersecurity and Information Technology</span>
 
 #### Technical Skills: TensorFlow, Scikit-learn, Python, SQL, Shell scripting, JavaScript, MATLAB
 
