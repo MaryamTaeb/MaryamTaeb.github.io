@@ -55,7 +55,7 @@ This research project examines the fairness and efficiency of pretrained languag
 
 The study aims to understand and mitigate inherent biases in these models, thereby enhancing fairness in AI-driven applications and promoting equity in machine learning across various industries.
 
-![Fairness](/assets/img/Fairness.jpeg)
+![Fairness](/assets/img/Fairness.png)
 
 ## Talks & Lectures
 - ACM Richard Tapia and Grace Hopper Celebration 2020 Presenter “Vegetation Classification Using Lidar Data”
