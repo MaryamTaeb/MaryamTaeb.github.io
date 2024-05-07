@@ -24,6 +24,7 @@
 
 [Publication](https://ieeexplore.ieee.org/abstract/document/10185510)
 [News Coverage](https://eng.famu.fsu.edu/news/new-ai-truth-tool-targets-deepfakes-and-misinformation)
+[Open-Source Framework](https://github.com/MaryamMoghadam/DeepFake_Authenticator)
 
 Blockchain-Based Decentralized Federated Learning Framework for Digital Forensic Applications & Deepfake Detection (BFDD), an innovative solution designed to support law enforcement agencies in authenticating digital evidence. The framework enhances targeted data extraction and improves deepfake detection capabilities using advanced machine learning techniques. By bolstering evidence authentication processes, the BFDD aims to reinforce the reliability of digital media in judicial settings, addressing critical issues in digital forensics and the integrity of evidence.
 
@@ -60,41 +61,42 @@ The study aims to understand and mitigate inherent biases in these models, there
 
 ## Publications
 
-1. Taeb, Maryam, et al. "AXNav: Replaying Accessibility Tests from Natural
+[1. Taeb, Maryam, et al. "AXNav: Replaying Accessibility Tests from Natural
 Language." CHI conference on Human Factors in Computing Systems 11-16 May
-2024
-2. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Assessing the Effectiveness
+2024](https://arxiv.org/pdf/2310.02424)
+[2. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Assessing the Effectiveness
 and Security Implications of AI Code Generators.” The Colloquium for Information
-Systems Security Education (CISSE 2023), Nov 1-3, 2023
-3. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Targeted Data Extraction and
+Systems Security Education (CISSE 2023), Nov 1-3, 2023](https://cisse.info/journal/index.php/cisse/article/view/180)
+[3. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda. “Targeted Data Extraction and
 Deepfake Detection with Blockchain Technology.” International Conference on
-Universal Village (IEEE UV2022), Oct 22-25, 2022
-4. Taeb, Maryam, Torres, Yonathan, Chi, Hongmei, Bernadin, Shonda. “Investigating
+Universal Village (IEEE UV2022), Oct 22-25, 2022](https://ieeexplore.ieee.org/abstract/document/10185510)
+[4. Taeb, Maryam, Torres, Yonathan, Chi, Hongmei, Bernadin, Shonda. “Investigating
 Gender and Racial Bias in ELECTRA.” International conference on Computational
-Science & Computational Intelligence (CSCI'22), Dec 14-16, 2022
-5. Elliston, J., Chi, H., Bernadin, S., & Taeb, M, “Integrating Blockchain Technology
+Science & Computational Intelligence (CSCI'22), Dec 14-16, 2022](https://ieeexplore.ieee.org/abstract/document/10216397)
+[5. Elliston, J., Chi, H., Bernadin, S., & Taeb, M, “Integrating Blockchain Technology
 into Cybersecurity Education.” Future Technologies Conference (FTC) 2022, Nov
-2-3, 2022
-6. Taeb, M., & Bernadin, S, “Broadening Participation in URE Using PS-MMM-based
+2-3, 2022](https://link.springer.com/chapter/10.1007/978-3-031-18458-1_1)
+[6. Taeb, M., & Bernadin, S, “Broadening Participation in URE Using PS-MMM-based
 Mentoring for URM Engineering Students.” The Chronicle of Mentoring & Coaching
-conference 2022, Oct 23-27, 2022
-7. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda (2022). “Digital Evidence
+conference 2022, Oct 23-27, 2022](https://www.researchgate.net/profile/Maryam-Taeb/publication/365974663_Broadening_Participation_in_URE_Using_PS-MMM-based_Mentoring_for_URM_Engineering_Students/links/638ab1e42c563722f23327ec/Broadening-Participation-in-URE-Using-PS-MMM-based-Mentoring-for-URM-Engineering-Students.pdf)
+[7. Taeb, Maryam, Chi, Hongmei, Bernadin, Shonda (2022). “Digital Evidence
 Acquisition and Deepfake Detection with Decentralized Applications.” Practice
-and Experience in Advanced Research Computing (PEARC). July 10-14, 2022
-8. Taeb, Maryam, & Chi, Hongmei (2022). “Comparison of Deepfake Detection
+and Experience in Advanced Research Computing (PEARC). July 10-14, 2022](https://dl.acm.org/doi/abs/10.1145/3491418.3535127)
+[8. Taeb, Maryam, & Chi, Hongmei (2022). “Comparison of Deepfake Detection
 Techniques through Deep Learning.” Journal of Cybersecurity and Privacy, 2(1),
-89-106.
-9. Taeb, Maryam, Chi, Hongmei, Yan, Jie, “Applying Machine Learning to Analyze
+89-106.](https://www.mdpi.com/2624-800X/2/1/7)
+[9. Taeb, Maryam, Chi, Hongmei, Yan, Jie, “Applying Machine Learning to Analyze
 Anti-vaccination on Tweets.” IEEE International Conference on Big Data (BDA
-COVID-2021), Dec 15-18, 2021
-10. Taeb, Maryam and Hongmei Chi, “A Personalized Learning Framework for
+COVID-2021), Dec 15-18, 2021](https://ieeexplore.ieee.org/document/9671647)
+[10. Taeb, Maryam and Hongmei Chi, “A Personalized Learning Framework for
 Software Vulnerability Detection and Education.” 2021 International Workshop on
-Cyber Security (CSW) Aug 13-15, 2021
-11. Taeb, Maryam, Chi, Hongmei, Jones, Edward. L. et al. “Inherent Discriminability of
+Cyber Security (CSW) Aug 13-15, 2021](https://ieeexplore.ieee.org/abstract/document/9644382)
+[11. Taeb, Maryam, Chi, Hongmei, Jones, Edward. L. et al. “Inherent Discriminability of
 BERT towards racial Minority Associated Data”, The 21st International Conference
-on Computational Science and Applications (ICCSA 2021), Sept 13-16, 2021
-12. A Ali, K Adjei, S Fatimah, K Ezendu, M Taeb, H Chi, C King, V Diaby, “Using Twitter
+on Computational Science and Applications (ICCSA 2021), Sept 13-16, 2021](https://link.springer.com/chapter/10.1007/978-3-030-86970-0_19)
+[12. A Ali, K Adjei, S Fatimah, K Ezendu, M Taeb, H Chi, C King, V Diaby, “Using Twitter
 to Examine Public Perceptions about COVID-19 in the United States: A Sentiment
-Analysis”, ISPOR, May 17-20
+Analysis”, ISPOR, May 17-20](https://www.valueinhealthjournal.com/article/S1098-3015(22)01623-0/fulltext)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/maryamrmoghadam/)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=oySeoNQAAAAJ&hl=en&oi=ao)
