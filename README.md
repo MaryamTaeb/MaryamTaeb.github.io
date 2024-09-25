@@ -1,4 +1,4 @@
-# AI/ML Researcher <br><span style="color:#0066cc; font-size:smaller;">HCI, Cybersecurity</span><br><span style="font-size:15px;">FAMU-FSU College of Engineering</span>
+# Assistant Professor<br><span style="color:#0066cc; font-size:smaller;"> University of West Florida </span><br><span style="font-size:15px;">Department of Cybersecurity and Information Technology</span>
 <a href="https://github.com/MaryamMoghadam/MaryamTaeb.github.io/blob/586481fdcab38f9f0ce67bffad1d5325227a42bb/assets/img/Maryam-Resume.pdf" style="display: inline-block; padding: 8px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none; margin-top: 10px;">Download Resume</a>
 #### Technical Skills: TensorFlow, Scikit-learn, Python, SQL, Shell scripting, JavaScript, MATLAB
 
