@@ -8,7 +8,12 @@
 - B.S., Computer Science | University of Central Florida, Orlando, FL (_December 2019_)
 
 ## Work Experience
-**Research Assistant @ SPADAL Lab, FAMU-FSU College of Engineering** (_August 2021 - Present_)
+**Assistant Professor @ University of West Florida, Department of Cybersecurity and Information Technology** (_August 2024 - Present_)
+- Teach undergraduate/graduate courses in the Cybersecurity Department curriculum.
+- Perform scholarly research activities including writing published articles, conference papers and research grants in Cybersecurity in Generative AI and AI for Cybersecurity Solutions
+- Active involvement in service including faculty mentor with UWF's Office of Undergraduate Research, representative of the Hal Marcus College of Science and Engineering on the Faculty Sponsored Merit Scholarship Committee, Search Committee member, and outreach. 
+  
+**Research Assistant @ SPADAL Lab, FAMU-FSU College of Engineering** (_August 2021 - July 2024_)
 - Engaged in AI research focusing on speech and image signal processing for Deepfake detection.
 - Enhanced EfficientNet model with attention mechanism and fine-tuned BERT for improved performance in data extraction and classification tasks.
 
