@@ -28,7 +28,7 @@
 
 ### Forensic Investigation of Synthetic Voice Spoofing Detection in Social App
 
-[Publication](https://dl.acm.org/doi/abs/10.1145/3696673.3723086) |
+[Publication](https://dl.acm.org/doi/abs/10.1145/3696673.3723086)
 
 This project addresses the growing threat of synthetic voice spoofing in social applications by proposing a hybrid deep learning model combining MobileNet CNN and Temporal Convolutional Networks (TCN). The model extracts spatial and temporal features from Mel-Spectrograms to detect fake audio with high accuracy. Tested on the Fake-or-Real (FoR) dataset, it achieved up to 99.89% training precision and 99% average precision, proving effective for real-time use in resource-limited settings.
 
@@ -45,7 +45,7 @@ ARGObot is an AI-powered academic advising system designed to support student su
 
 ### Seeing the Unseen: A Forecast of Cybersecurity Threats Posed by Vision Language Models
 
-[Publication](https://ieeexplore.ieee.org/abstract/document/10825034) |
+[Publication](https://ieeexplore.ieee.org/abstract/document/10825034)
 
 This study explores how commercial Large Vision-Language Models (LVLMs) like LLAVA and multimodal GPT-4 can be misused to bypass CAPTCHA and reCAPTCHA systems. Findings show that these models can interpret visual challenges and respond accurately without needing adversarial techniques, raising concerns about their potential use in bot-driven fraud and unauthorized account access using standard, unmodified models.
 
