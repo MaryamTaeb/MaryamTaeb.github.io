@@ -11,7 +11,7 @@
 **Assistant Professor @ University of West Florida, Department of Cybersecurity and Information Technology** (_August 2024 - Present_)
 - Teach undergraduate/graduate courses in the Cybersecurity Department curriculum.
 - Perform scholarly research activities including writing published articles, conference papers and research grants in Cybersecurity in Generative AI and AI for Cybersecurity Solutions
-- Active involvement in service including faculty mentor with UWF's Office of Undergraduate Research, representative of the Hal Marcus College of Science and Engineering on the Faculty Sponsored Merit Scholarship Committee, Search Committee member, and outreach. 
+- Active involvement in service including NSA-CAE CyberAI point of contact, CURE Fellow, faculty mentor with UWF's Office of Undergraduate Research, representative of the Hal Marcus College of Science and Engineering on the Faculty Sponsored Merit Scholarship Committee, Search Committee member, and outreach. 
   
 **Research Assistant @ SPADAL Lab, FAMU-FSU College of Engineering** (_August 2021 - July 2024_)
 - Engaged in AI research focusing on speech and image signal processing for Deepfake detection.
@@ -32,6 +32,8 @@
 
 This project addresses the growing threat of synthetic voice spoofing in social applications by proposing a hybrid deep learning model combining MobileNet CNN and Temporal Convolutional Networks (TCN). The model extracts spatial and temporal features from Mel-Spectrograms to detect fake audio with high accuracy. Tested on the Fake-or-Real (FoR) dataset, it achieved up to 99.89% training precision and 99% average precision, proving effective for real-time use in resource-limited settings.
 
+![FakeAudio](/assets/img/synthetic_voice.png)
+
 ### ARGObot: Academic Advising Chatbot Powered with AI Agent
 
 [Publication](https://dl.acm.org/doi/abs/10.1145/3696673.3723065) |
@@ -39,11 +41,15 @@ This project addresses the growing threat of synthetic voice spoofing in social 
 
 ARGObot is an AI-powered academic advising system designed to support student success by offering personalized guidance based on university policies. Addressing challenges like limited advisor availability, it uses a Large Language Model (LLM) with a multi-agent architecture, incorporating Retrieval-Augmented Generation (RAG) from verified sources, email integration for human-in-the-loop, and web search to expand its knowledge. Originally built on Gemini 1 Pro, the system was upgraded to GPT-4 with text-embedding-ada-002, significantly improving performance. This project compares both versions and shows how the enhanced design better addresses student queries with accurate, context-aware responses.
 
+![ARGObot](/assets/img/argobot_agent.png)
+
 ### Seeing the Unseen: A Forecast of Cybersecurity Threats Posed by Vision Language Models
 
 [Publication](https://ieeexplore.ieee.org/abstract/document/10825034) |
 
 This study explores how commercial Large Vision-Language Models (LVLMs) like LLAVA and multimodal GPT-4 can be misused to bypass CAPTCHA and reCAPTCHA systems. Findings show that these models can interpret visual challenges and respond accurately without needing adversarial techniques, raising concerns about their potential use in bot-driven fraud and unauthorized account access using standard, unmodified models.
+
+![Vision](/assets/img/VisionLanguage.png)
 
 ### A Blockchain-Based Decentralized Federated Learning Framework for Deepfake Detection in Digital Forensic Scenarios
 
